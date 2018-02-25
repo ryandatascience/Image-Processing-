@@ -1,0 +1,3 @@
+tree.pgm tree_amplitude.pgm Sobel33 50 
+wheel.pgm wheel_amplitude.pgm Sobel33 50 
+tree.pgm OpenCV_dft.pgm dftLPF 50 
