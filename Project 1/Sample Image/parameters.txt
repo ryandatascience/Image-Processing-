@@ -1,0 +1,6 @@
+baboon.ppm baboon_colorthre.ppm binarize2 125 10 10 10
+baboon.pgm baboon_graythre.pgm binarize1 125
+baboon.pgm baboon_add50.pgm add 50
+baboon.pgm baboon_smooth2d.pgm smooth2 20
+baboon.pgm baboon_smooth1d.pgm smooth1 20
+baboon.pgm baboon_edgesmooth.pgm edgesmooth 100

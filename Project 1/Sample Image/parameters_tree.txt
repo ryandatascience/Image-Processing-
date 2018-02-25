@@ -1,0 +1,4 @@
+tree.pgm tree_graythre150.pgm binarize1 150
+tree.pgm tree_graythre50.pgm binarize1 50
+
+

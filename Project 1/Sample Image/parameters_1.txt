@@ -1,0 +1,6 @@
+lena.ppm lena_colorthre.ppm binarize2 200 100 50 10
+lena.pgm lena_graythre.pgm binarize1 150
+lena.pgm lena_add50.pgm add 100
+lena.pgm lena_smooth2d.pgm smooth2 30
+lena.pgm lena_smooth1d.pgm smooth1 10
+lena.pgm lena_edgesmooth.pgm edgesmooth 150

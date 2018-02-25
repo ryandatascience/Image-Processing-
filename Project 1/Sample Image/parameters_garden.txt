@@ -1,0 +1,5 @@
+garden.ppm garden_colorthre200_255.ppm binarize2 200 0 255 0
+garden.ppm garden_colorthre150_255.ppm binarize2 150 0 255 0
+garden.ppm garden_colorthre150_10.ppm binarize2 150 10 10 10
+
+
