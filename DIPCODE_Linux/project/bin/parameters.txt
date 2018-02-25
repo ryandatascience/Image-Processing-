@@ -1,0 +1,2 @@
+tree.pgm tree_amplitude.pgm Sobel33 50 
+wheel.pgm wheel_amplitude.pgm Sobel33 50 
