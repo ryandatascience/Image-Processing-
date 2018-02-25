@@ -1,0 +1,2 @@
+slope.pgm slope_histogram.pgm hist 50
+pen.ppm pen_conversion.ppm conversion 50
